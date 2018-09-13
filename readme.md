@@ -6,10 +6,9 @@
 - Composer
 
 O'rnatish
-- git clone https://github.com/Saidabbos/to-do-backend.git
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
-- composer install
-- todo nomli db hosil qilish
-- php artisan migrate
-- php artisan  passport:install
-- php artisan serve 
+- `git clone https://github.com/Saidabbos/to-do-backend.git`
+- `composer install`
+- `todo` nomli db hosil qilish
+- `php artisan migrate`
+- `php artisan  passport:install`
+- `php artisan serve `
